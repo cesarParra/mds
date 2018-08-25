@@ -1,2 +1,2 @@
 # mds
-Design system I am currently working on
+UI Kit
